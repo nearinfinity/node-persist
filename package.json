@@ -37,7 +37,7 @@
   "dependencies": {
     "async": "0.1.15",
     "over": ">=0.0.5",
-    "db-info": "0.0.3",
+    "db-info": "git://github.com/myteksi/node-db-info.git",
     "generic-pool": "~2.0.2"
   },
   "devDependencies": {
